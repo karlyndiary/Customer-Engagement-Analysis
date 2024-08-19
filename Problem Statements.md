@@ -25,11 +25,13 @@ Calculate the skewness and kurtosis of students who watched content in Q4 2021 a
 *Paid Plan Students*
 
 | Statistic         | Minutes Watched 21  | Minutes Watched 22  |
+|-------------------|---------------------|---------------------|
 |Skew	              |0.625157717        	|7.065595612          |
 |Kurtosis           |	-0.849282209      	|58.4849581           |
 
 *Free Plan Students*
 
 | Statistic         | Minutes Watched 21  | Minutes Watched 22  |
+|-------------------|---------------------|---------------------|
 | Skew              | 1.16773938          | 15.06167594         |
 | Kurtosis          | 0.360033015	        | 315.7647882         |
