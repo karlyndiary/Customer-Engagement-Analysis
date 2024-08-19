@@ -21,3 +21,15 @@ If there are repeated students who watched in Q4 2021 and Q4 2022, how does thei
 ### Task 2
 
 Calculate the skewness and kurtosis of students who watched content in Q4 2021 and Q4 2022. Consider paid- and free-plan students. Does the result contradict the mean and median values previously obtained?
+
+*Paid Plan Students*
+
+| Statistic         | Minutes Watched 21  | Minutes Watched 22  |
+|Skew	              |0.625157717        	|7.065595612          |
+|Kurtosis           |	-0.849282209      	|58.4849581           |
+
+*Free Plan Students*
+
+| Statistic         | Minutes Watched 21  | Minutes Watched 22  |
+| Skew              | 1.16773938          | 15.06167594         |
+| Kurtosis          | 0.360033015	        | 315.7647882         |
